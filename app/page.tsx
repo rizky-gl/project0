@@ -1,8 +1,3 @@
-"use client";
-
-//todo: pakai tailwind css
-// todo: ambil API dari open quizes!
-
 import React from "react";
 import Button from "./components/button";
 import TextPlaceholder from "./components/text_placeholder";
