@@ -3,7 +3,6 @@ import { StarIcon } from "@heroicons/react/24/solid";
 import React from "react";
 import Popup from "reactjs-popup";
 import "reactjs-popup/dist/index.css";
-import MyToggle from "./myToggle";
 import MyPopover from "./PopOver";
 
 const SideBar = () => {
@@ -50,7 +49,6 @@ const SideBar = () => {
           <li>......</li>
         </div>
       </ol>
-      <MyToggle />
     </div>
   );
 };
